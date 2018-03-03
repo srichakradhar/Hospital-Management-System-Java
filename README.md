@@ -50,8 +50,6 @@ A simple Hospital Management System in java
 
 Message: Doctor with same Reg No Exist in System
 
-![7](https://user-images.githubusercontent.com/1732922/36937310-5bdd9b04-1f37-11e8-89f0-bee99b6c3e77.jpg)
-
 ### 5.  PatientExistException Class Outline
 
 ![7](https://user-images.githubusercontent.com/1732922/36937310-5bdd9b04-1f37-11e8-89f0-bee99b6c3e77.jpg)
